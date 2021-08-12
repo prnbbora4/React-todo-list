@@ -92,8 +92,8 @@ const Todo = () => {
             <div className='main-div'>
                 <div className='child-div'>
                     <figure>
-                        <img src={todologo}/>
-                        <figcaption>Add your list here</figcaption>
+                        <img src={ todologo } />
+                        {/* <figcaption>Add your list here</figcaption> */}
                     </figure>
 
                     <div className='addItems'>
